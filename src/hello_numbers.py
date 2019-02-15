@@ -1,4 +1,4 @@
-"""Kata for declaring numbers."""
+"""Kata for numbers."""
 print("Hello Numbers!")
 x = 100
 y = 100.0
