@@ -1,5 +1,5 @@
 """Kata for declaring numbers."""
-print("Hello Numbers")
+print("Hello Numbers!")
 x = 100
 y = 100.0
 z = 3.14e10
