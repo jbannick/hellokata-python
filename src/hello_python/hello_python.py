@@ -1,2 +1,2 @@
-#!/Library/Frameworks/Python.framework/Versions/3.7/bin
+"""Your basic Hello World"""
 print("Hello Python!")
