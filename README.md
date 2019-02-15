@@ -1,4 +1,4 @@
-# hellokata-java
+# hellokata-python
 “Amateurs practice until they get it right; 
 Professionals practice until they can’t get it wrong.”
 
