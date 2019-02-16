@@ -31,3 +31,11 @@ else:
         print("Result 3")
     else:
         print("Result 4")
+
+x = 'b'
+if 'a' == x:
+    print("x is a")
+elif 'b' == x:
+    print("x is b")
+else:
+    print("x is unknown")
