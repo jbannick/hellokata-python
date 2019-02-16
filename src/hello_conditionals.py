@@ -20,3 +20,14 @@ else:
         print("Result 3")
     else:
         print("Result 4")
+ 
+if 'a' == 'b':
+    if 1 > 2:
+        print("Result 1")
+    else:
+        print("Result 2")
+else:
+    if 1 < 2:
+        print("Result 3")
+    else:
+        print("Result 4")
